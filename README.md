@@ -35,7 +35,11 @@ This plugin gives you all the tools to setup 3D Volumetric flowmaps in Unreal En
 
 ## Install
 
-First make sure that the plugin is enabled:
+https://www.fab.com/listings/24366d75-66d0-4b97-8b9d-bcdca825cebe
+
+Just download the folder into your project from Fab. 
+
+If you got the plugin version (not on Fab), please first make sure that the plugin is enabled:
 <img width="1137" height="248" alt="image" src="https://github.com/user-attachments/assets/3e7456d1-0446-4610-9321-304136e383de" />
 
 Also check that your are displaying Plugins Content in content browser's settings:
