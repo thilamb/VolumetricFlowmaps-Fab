@@ -1,6 +1,6 @@
 # VolumetricFlowmaps-Fab
 
-**Volumetric Flowmaps** is an Unreal Engine data plugin, available on Fab, designed to help you create and work with 3D volumetric flowmaps. It provides a collection of Blueprints and materials to easily set up, customize, and animate your own volumetric effects.
+**Volumetric Flowmaps** is an Unreal Engine data plugin, [available on Fab](https://www.fab.com/listings/24366d75-66d0-4b97-8b9d-bcdca825cebe), designed to help you create and work with 3D volumetric flowmaps. It provides a collection of Blueprints and materials to easily set up, customize, and animate your own volumetric effects.
 
 2D flowmaps are a well-established technique in game development, commonly used to create inexpensive, looping animations for water, smoke, and other effects as an alternative to costly simulations.
 
@@ -11,7 +11,7 @@
 By combining a **static volumetric texture with a lightweight 3D flowmap**, we can animate volumetric effects without the need for large VDB animation sequences, dramatically reducing memory requirements while retaining much of the visual richness of the original simulation.
 
 This plugin gives you all the tools to setup 3D Volumetric flowmaps in Unreal Engine. It contains:
-* 7 demonstration levels
+* 9 demonstration levels
 * 3 master blueprints + 3 helper blueprints
 * 5 master materials, with 24 material instances
 * 11 volumes + 4 sparse volumes textures
@@ -189,6 +189,8 @@ This is particularly useful when creating custom turbulence volumes or fine-tuni
 
 
 ## Thanks!
+
+https://www.fab.com/listings/24366d75-66d0-4b97-8b9d-bcdca825cebe
 
 Thank you for your interest in this plugin!
 
